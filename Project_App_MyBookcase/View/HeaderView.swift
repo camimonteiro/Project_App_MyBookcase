@@ -25,10 +25,13 @@ struct HeaderView: View {
                         .offset(x: -45)
                 }
                 .frame(width: view.size.width, height: 100, alignment: .center)
-                .background(Color .blue)
+                .offset(y:25)
+                
                 
             }
-            .frame(width: view.size.width, height: 100, alignment: .top)
+            .frame(width: view.size.width, height: 140, alignment: .top)
+            .background(Color .blue)
+            
             
             }
         }
