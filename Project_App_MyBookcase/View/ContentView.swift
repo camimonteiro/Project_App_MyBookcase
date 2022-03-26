@@ -15,6 +15,10 @@ struct ContentView: View {
             GeometryReader { view in
                 VStack {
                     HeaderView()
+                        .frame(width: view.size.width, height: 100, alignment: .top)
+                    FooterView()
+                        .frame(width: view.size.width, height: 100, alignment: .bottom)
+                    
                 }
             }
         }
