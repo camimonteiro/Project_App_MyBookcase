@@ -8,6 +8,11 @@
 import SwiftUI
 
 struct CardListView: View {
+    // MARK: Atributos
+    var bookShelf: BookShelf
+    
+    // MARK: View
+    
     var body: some View {
         GeometryReader { view in
             VStack {
@@ -44,6 +49,6 @@ struct CardListView: View {
 
 struct CardListView_Previews: PreviewProvider {
     static var previews: some View {
-        CardListView()
+        CardListView(bookShelf: book)
     }
 }
