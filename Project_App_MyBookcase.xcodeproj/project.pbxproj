@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		36688CF227FCD27F00F2641C /* CardListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36688CF127FCD27F00F2641C /* CardListView.swift */; };
 		36C84AB127ED2B5D002FE73F /* Project_App_MyBookcaseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C84AB027ED2B5D002FE73F /* Project_App_MyBookcaseApp.swift */; };
 		36C84AB327ED2B5D002FE73F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C84AB227ED2B5D002FE73F /* ContentView.swift */; };
 		36C84AB527ED2B5F002FE73F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36C84AB427ED2B5F002FE73F /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		36688CF127FCD27F00F2641C /* CardListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardListView.swift; sourceTree = "<group>"; };
 		36C84AAD27ED2B5D002FE73F /* Project_App_MyBookcase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project_App_MyBookcase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36C84AB027ED2B5D002FE73F /* Project_App_MyBookcaseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_App_MyBookcaseApp.swift; sourceTree = "<group>"; };
 		36C84AB227ED2B5D002FE73F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,8 @@
 				36C84AC527ED2C4F002FE73F /* Controller */,
 				36C84AC427ED2C48002FE73F /* View */,
 				36C84ABB27ED2B5F002FE73F /* Project_App_MyBookcase.xcdatamodeld */,
+				36C84AB027ED2B5D002FE73F /* Project_App_MyBookcaseApp.swift */,
+				36C84AB927ED2B5F002FE73F /* Persistence.swift */,
 				36C84AB427ED2B5F002FE73F /* Assets.xcassets */,
 				36C84AC627ED2CA4002FE73F /* Launch Screen.storyboard */,
 				36C84AB627ED2B5F002FE73F /* Preview Content */,
@@ -87,7 +91,6 @@
 		36C84AC327ED2C41002FE73F /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				36C84AB027ED2B5D002FE73F /* Project_App_MyBookcaseApp.swift */,
 				36C84ACE27ED3FD3002FE73F /* BookRegistration.swift */,
 			);
 			path = Models;
@@ -100,6 +103,7 @@
 				36C84AC827ED2CF4002FE73F /* HeaderView.swift */,
 				36C84ACA27ED2D0C002FE73F /* FooterView.swift */,
 				36C84ACC27ED35CC002FE73F /* SearchView.swift */,
+				36688CF127FCD27F00F2641C /* CardListView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -107,7 +111,6 @@
 		36C84AC527ED2C4F002FE73F /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				36C84AB927ED2B5F002FE73F /* Persistence.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				36C84ACB27ED2D0C002FE73F /* FooterView.swift in Sources */,
 				36C84ABD27ED2B5F002FE73F /* Project_App_MyBookcase.xcdatamodeld in Sources */,
 				36C84AB127ED2B5D002FE73F /* Project_App_MyBookcaseApp.swift in Sources */,
+				36688CF227FCD27F00F2641C /* CardListView.swift in Sources */,
 				36C84ACF27ED3FD3002FE73F /* BookRegistration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
