@@ -69,6 +69,8 @@
 				36C84AC527ED2C4F002FE73F /* Controller */,
 				36C84AC427ED2C48002FE73F /* View */,
 				36C84ABB27ED2B5F002FE73F /* Project_App_MyBookcase.xcdatamodeld */,
+				36C84AB427ED2B5F002FE73F /* Assets.xcassets */,
+				36C84AC627ED2CA4002FE73F /* Launch Screen.storyboard */,
 				36C84AB627ED2B5F002FE73F /* Preview Content */,
 			);
 			path = Project_App_MyBookcase;
@@ -94,9 +96,7 @@
 		36C84AC427ED2C48002FE73F /* View */ = {
 			isa = PBXGroup;
 			children = (
-				36C84AB427ED2B5F002FE73F /* Assets.xcassets */,
 				36C84AB227ED2B5D002FE73F /* ContentView.swift */,
-				36C84AC627ED2CA4002FE73F /* Launch Screen.storyboard */,
 				36C84AC827ED2CF4002FE73F /* HeaderView.swift */,
 				36C84ACA27ED2D0C002FE73F /* FooterView.swift */,
 				36C84ACC27ED35CC002FE73F /* SearchView.swift */,
