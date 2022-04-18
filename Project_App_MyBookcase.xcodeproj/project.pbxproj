@@ -54,6 +54,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		36688CF927FCE66700F2641C /* Mocks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Mocks;
+			sourceTree = "<group>";
+		};
 		36C84AA427ED2B5D002FE73F = {
 			isa = PBXGroup;
 			children = (
@@ -113,6 +120,7 @@
 				36C84ACC27ED35CC002FE73F /* SearchView.swift */,
 				36688CF127FCD27F00F2641C /* CardListView.swift */,
 				36688CF327FCD59800F2641C /* CardSessionView.swift */,
+				36688CF927FCE66700F2641C /* Mocks */,
 			);
 			path = View;
 			sourceTree = "<group>";

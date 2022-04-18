@@ -21,13 +21,13 @@ struct CardListView: View {
                     .frame(height: 135)
                     .clipped()
                 VStack {
-                    Text("Título do Livro")
+                    Text(self.bookShelf.titulo)
                         .font(.custom("Avenir Black", size: 12))
                         .frame(minWidth: 0, maxWidth: view.size.width, alignment: .leading)
-                    Text("Autor")
+                    Text(self.bookShelf.autor)
                         .font(.custom("Avenir", size: 10))
                         .frame(minWidth: 0, maxWidth: view.size.width, alignment: .leading)
-                    Text("Descrição")
+                    Text(self.bookShelf.descricao)
                         .font(.custom("Avenir", size: 10))
                         .frame(minWidth: 0, maxWidth: view.size.width, alignment: .leading)
                     Text("Avaliar ⭐️")
@@ -49,6 +49,7 @@ struct CardListView: View {
 
 struct CardListView_Previews: PreviewProvider {
     static var previews: some View {
-        CardListView(bookShelf: book)
+        CardListView(bookShelf: booksShelf[0])
+            .previewLayout(.fixed(width: 180, height: 250))
     }
 }
