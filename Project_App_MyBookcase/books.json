@@ -1,0 +1,224 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Morro dos Ventos Uivantes",
+        "autor": "Emily Brontë",
+        "categoria": "Romance",
+        "descricao": "Único romance da escritora inglesa Emily Bronte, O morro dos ventos uivantes retrata 
+        uma trágica historia de amor e obsessão em que os personagens principais são a obstinada e geniosa Catherine Earnshaw e seu irmão adotivo, Heathcliff. Grosseiro, humilhado e rejeitado, ele guarda apenas rancor no coração, mas tem com Catherine um relacionamento marcado por amor e, ao mesmo tempo, ódio.",
+        "imagens": ["O-Morro-Dos-Ventos-Uivantes"],
+    },
+    
+    {
+        "id": 2,
+        "titulo": "A Cinco Passos de Você",
+        "autor": "Rachael Lippincott",
+        "categoria": "Romance",
+        "descricao": "Stella Grant gosta de estar no controle. Ela parece ser uma adolescente típica, 
+        mas em sua rotina há listas de tarefas e inúmeros remédios que ela deve tomar para controlar a fibrose cística, uma doença crônica que impede que seus pulmões funcionem como deveriam. Suas prioridades são manter seus pais felizes e conseguir um transplante – e uma coisa não existe sem a outra. Mas para ganhar pulmões novos, Stella precisa seguir seu tratamento à risca e eliminar qualquer chance de infecção, o que significa que ela não pode ficar a menos que dois metros de distância – ou seis passos – de outros pacientes com a doença. O primeiro item é fácil para ela, mas o segundo pode se provar mais difícil do que ela esperava. O único controle que Will Newman deseja é o de sua própria vida. Ele não dá a mínima para o novo tratamento experimental para o qual foi selecionado e não aguenta mais a pressão de sua mãe para que melhore. Prestes a completar dezoito anos, ele mal pode esperar para finalmente se livrar das máquinas e hospitais, usando o pouco de vida que ainda lhe resta para conhecer o mundo. Stella e Will são muito diferentes. Ao mesmo tempo, a doença que os une não é a única coisa que têm em comum. Eles têm que ficar a cinco passos um do outro, mas, conforme a conexão entre os dois aumenta, a vontade de burlar a distância física parece insuportável. Um grande amor vale um passo roubado?",
+        "imagens": ["A-Cinco-Passos-De-Você"],
+    },
+
+    {
+        "id": 3,
+        "titulo": "A Culpa é das Estrelas",
+        "autor": "John Green",
+        "categoria": "Romance",
+        "descricao": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu 
+        tumor tenha encolhido bastante — o que lhe dá a promessa de viver mais alguns anos —, o 
+        último capítulo de sua história foi escrito no momento do diagnóstico. Mas em todo bom 
+        enredo há uma reviravolta, e a de Hazel se chama Augustus Waters, um garoto bonito que 
+        certo dia aparece no Grupo de Apoio a Crianças com Câncer. Juntos, os dois vão preencher 
+        o pequeno infinito das páginas em branco de suas vidas. Inspirador, corajoso, irreverente e brutal, A culpa é das estrelas é a obra mais ambiciosa e emocionante de John Green, sobre a alegria e a tragédia que é viver e amar.",
+        "imagens": ["A-Culpa-É-Das-Estrelas"],
+    },
+
+    {
+        "id": 4,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Romance",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 5,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Aventura",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 6,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Aventura",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 7,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Aventura",,
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 8,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Aventura",,
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 9,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Suspense",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 10,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Suspense",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 11,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Suspense",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 12,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Suspense",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 13,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Terror",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 14,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Terror",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 15,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Terror",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 16,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Terror",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 17,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Auto Ajuda",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 18,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Auto Ajuda",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 19,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Auto Ajuda",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 20,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Auto Ajuda",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 21,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Religioso",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 22,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Religioso",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 23,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Religioso",
+        "descricao": ,
+        "imagens": ,
+    },
+
+    {
+        "id": 24,
+        "titulo": ,
+        "autor": ,
+        "categoria": "Religioso",
+        "descricao": ,
+        "imagens": ,
+    }
+]
